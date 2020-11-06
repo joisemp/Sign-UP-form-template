@@ -1,0 +1,85 @@
+body {
+    background-color: whitesmoke;
+}
+
+.row {
+    margin: 0;
+}
+
+.card {
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0px 15px 40px -20px rgba(0, 64, 102, 0.4);
+    padding: 26px;
+}
+
+.innerCard {
+    width: 100%;
+    height: 785px;
+    border-radius: 5px;
+    background: linear-gradient(135deg, #BA91E9, #6D58CE);
+}
+
+.form-heading {
+    color: #151e42;
+    font-family: "Muli-SemiBold";
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 43px;
+    font-weight: bolder;
+}
+
+.input-text {
+    height: 60px;
+    border-radius: 5px;
+    border: solid 1px #e4e8ee;
+    background: #ffffff;
+}
+
+.li {
+    width: 100px;
+    height: 21px;
+    color: #151e42;
+    font-family: "Muli-SemiBold";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+}
+
+.submit {
+    height: 60px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background: #6e59ce;
+    box-shadow: 0px 20px 20px -15px rgba(89, 77, 223, 0.5);
+    font-family: "Muli-SemiBold";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.details {
+    padding: 5%;
+}
+
+.check {
+    width: 33px;
+    height: 33px;
+    margin: 5px;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Muli-SemiBold";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    font-weight: bolder;
+}
+
+.para {
+    color: #ffffff;
+    font-family: "Muli-SemiBold";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+}
